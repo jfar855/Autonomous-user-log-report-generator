@@ -1,0 +1,6 @@
+My task is to write code that parses the "userlog.log" file and generates automated parts.
+
+First I will parse the text file into a list and use 4 functions.
+I will then have functions iterate through the list to search for the conditions (suspicious activities, irresponsible behaviors, system glitches, domain counts). 
+Data that goes with each index is always the same number of indices apart.
+Each function outputs a text file report.
